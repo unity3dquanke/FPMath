@@ -1,5 +1,5 @@
 {
-  "name": "com.jackwithtea.fpmath",
+  "name": "com.frame.fpmath",
   "version": "1.0.0",
   "description": "依赖 FixedMath.NET 定点数库",
   "displayName": "JackFrame.FPMath",
